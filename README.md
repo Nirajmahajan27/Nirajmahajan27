@@ -1,3 +1,14 @@
+Hi 👋, I'm NIRAJ
+🎯 I am currently a junior pursuing my Bachelors in Computer science and engineering.
+
+🍁 I have a keen interest in Web Development.
+
+✨ I'm passionate about learning new things and want to make some impactful contribution in the community.
+
+
+
+
+
 - 👋 Hi, I’m @Nirajmahajan27
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C programmig
