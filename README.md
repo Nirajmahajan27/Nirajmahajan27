@@ -6,13 +6,11 @@
 
 
 
-Hi 👋, I'm NIRAJ
 
 🎯 I am currently a junior pursuing my Bachelors in Computer science and engineering.
 
-🍁 I have a keen interest in Web Development.
 
-✨ I'm passionate about learning new things and want to make some impactful contribution in the community.
+✨ I like to learn new things and want to make some contribution in the community.
 
 👀 I’m interested in programming
 
@@ -32,11 +30,15 @@ Hi 👋, I'm NIRAJ
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajmahajan27)](https://github.com/nirajmahajan27/github-readme-stats)
+  
+  
+ 
 
 
 ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajmahajan27&show_icons=true&theme=radical)
 
 
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajmahajan27&" alt="niraj" /></p
 <!---
 Nirajmahajan27/Nirajmahajan27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
