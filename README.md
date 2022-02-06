@@ -3,7 +3,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=nirajmahajan)](https://github.com/nirajmahajan/github-profile-trophy)
 
 
-
+![](https://komarev.com/ghpvc/?username=nirajmahajan27)
 
 
 
