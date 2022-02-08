@@ -7,7 +7,7 @@
 
 
 
-🎯 I am currently a junior pursuing my Bachelors in Computer science and engineering.
+🎯 I am currently pursuing my Bachelors in Computer science and engineering.
 
 
 ✨ I like to learn new things and want to make some contribution in the community.
