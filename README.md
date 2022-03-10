@@ -14,7 +14,7 @@
 
 👀 I’m interested in programming
 
-🌱 I’m currently learning C programming
+🌱 I’m currently learning Web Development.
 
 📫 How to reach me -----> my email nirajmahajan27@gmail.com
 
